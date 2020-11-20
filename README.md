@@ -16,7 +16,7 @@ buider.py takes all files in `./txt`, converts them back into binary, and put th
 The script doesn't traverse folders within the folders (and treats them as if files, and potentially throw errors). Contributions that implement traversing folders within the folders are more than welcome.
 
 # Contributing
-If you would like to make a one-off contribution, just make a pull request. If you would like to work on a number of files for a longer period of time, first open an issue so that people know what files you are working on and not do repeated work. (Also check issues and PRs for work that has been done or is in progress before you start.)
+If you would like to make a one-off contribution, just make a pull request **to the `translation` branch**. If you would like to work on a number of files for a longer period of time, first open an issue so that people know what files you are working on and not do repeated work. (Also check issues and PRs for work that has been done or is in progress before you start.)
 
 You may also request direct write permissions.
 
