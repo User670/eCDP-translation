@@ -11,7 +11,7 @@ for filename in listfiles:
 	f=open("./txt/"+filename)
 	o=f.read()
 	f.close()
-	strings=o.split("\n===#===\n")
+	strings=o.strip().split("\n===#===\n")
 	stringBytes=[ i.encode(encoding="shift-jisx0213")+b"\x00" for i in strings]
 
 	numStrings=len(strings)
