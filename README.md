@@ -11,7 +11,7 @@ There are two Python 3 scripts in the scripts folder.
 
 parse.py takes all files in `./original`, converts them into txt files, and put them in `./txt`.
 
-buider.py takes all files in `./txt`, converts them back into binary, and put them in `./modified`.
+builder.py takes all files in `./txt`, converts them back into binary, and put them in `./modified`.
 
 The script doesn't traverse folders within the folders (and treats them as if files, and potentially throw errors). Contributions that implement traversing folders within the folders are more than welcome.
 
