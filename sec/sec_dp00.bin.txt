@@ -1,189 +1,115 @@
-調理前のマックフライポテトの
-袋の保管場所は？
 Where is the bag of McD's
 Potatoes stored before cooking?
 ===#===
-ポテトフリーザー
 Potato Freezer
 ===#===
-冷蔵庫
 Refrigerator
 ===#===
-倉庫
 Warehouse
 ===#===
-ミートフリーザー
 Meat Freezer
 ===#===
-ハイセールス時にはポテト１袋を
-バスケット何個分に分けるか？
 How many baskets do you want to
 separate 1 bag of potatoes into?
 ===#===
-４個分
 4
 ===#===
-３個分
 3
 ===#===
-６個分
 6
 ===#===
-８個分
 8
 ===#===
-ポテトを製造するときの
-フライヤーの温度は？
 When making potatoes, what
 temperature should the fryer be?
 ===#===
-１６８℃
 168°C (335°F)
 ===#===
-１６６℃
 166°C (330°F)
 ===#===
-１７８℃
 178°C (350°F)
 ===#===
-１８２℃
 182°C (360°F)
 ===#===
-マックフライポテトを
-フルバットで製造するときの
-時間は？　
 When making potatoes, how
 long should they fry for?
 ===#===
-２分５５秒±５秒
 2m55s ± 5s
 ===#===
-２分４５秒±５秒
 2m45s ± 5s
 ===#===
-３分±５秒
 3m ± 5s
 ===#===
-３分１５秒±５秒
 3m15s ± 5s
 ===#===
-同じバットにポテトをダウン
-するときは、次のバスケットは
-何秒以上、時間をおかなければ
-ならないか？
 When taking fries out of the fryer, how long
 should you wait before putting the next ones in?
 ===#===
-３０秒以上
 30s or more
 ===#===
-１０秒以上
 10s or more
 ===#===
-２０秒以上
 20s or more
 ===#===
-すぐに入れても構わない
 Put them in immediately
 ===#===
-次の [　　　　] に入る
-言葉を選んでください
-
-『ポテトが床に落ちていたら、
- [　　　　] を使用して拾う』
 Fill in the blank:
 
 "If the potatoes fell on the floor,
 pick them up with the [     ]"
 ===#===
-トング大
 Tongs
 ===#===
-バギングスクープ
 Bagging Scoop
 ===#===
-手
 Hand
 ===#===
-ポテトバッグ
 Potato Bag
 ===#===
-次の [　　　　] に入る
-言葉を選んでください
-
-『ポテトに塩をふるときは、
- [　　　　] を描くようにふる』
 Fill in the blank:
 
 "When you sprinkle salt on potatoes,
 pretend to draw [     ]"
 ===#===
-トリプルアーチ
 Triple Arch
 ===#===
-Ｍマーク
 M Shape
 ===#===
-山なり
 Mountain
 ===#===
-円
 Circle
 ===#===
-マックフライポテトに対して、
-お客様が期待していないものは
-どれか？
 Which of the following do customers NOT
 expect with fries, if anything?
 ===#===
-冷たい食感
 Cold and Mushy
 ===#===
-アツアツでフレッシュ
 Hot and Fresh
 ===#===
-程よい塩加減
 Moderate Salting
 ===#===
-フルバッグ
 Full Bag
 ===#===
-次の [　　　　] に入る
-言葉を選んでください
-
-『オイルのフィルタリング時は、
-必ず専用手袋、エプロン、
- [　　　　] を着用する』
 Fill in the blank:
 
 "When filtering oil, be sure to wear gloves, 
 apron, and [     ]"
 ===#===
-フェイスシールド
 Face Mask
 ===#===
-ストップウォッチ
 Stopwatch
 ===#===
-バイザー
 Visor
 ===#===
-セーター
 Sweater
 ===#===
-オイルの６つの敵でないものを
-選んでください
 Which of the following is NOT one of the
 6 Enemies of oil?
 ===#===
-栄養素
 Nutrients
 ===#===
-揚げカス
 Tempura Bits
 ===#===
-熱
 Heat
 ===#===
-塩
 Salt
