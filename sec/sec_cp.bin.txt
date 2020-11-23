@@ -1,23 +1,23 @@
-マックフライポテト
+French Fries
 ===#===
-ハッシュポテト
+Hashbrowns
 ===#===
-ロット＆ロビー
+Store Front
 ===#===
-フードセーフティ
+Food Safety
 ===#===
-ブレックファーストストック
+Breakfast Preparation
 ===#===
-ブレックファーストミート
+Breakfast Meats
 ===#===
-グリルプロダクト
+Grilling
 ===#===
-アッセンブル（BF）
+Assembly (Breakfast)
 ===#===
-アッセンブル（DAY）
+Assembly (Daytime)
 ===#===
-フライプロダクト
+Fried Chicken
 ===#===
-フロントカウンター
+Front Counter
 ===#===
-ドライブスルー
+Drive-Thru

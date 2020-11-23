@@ -1,112 +1,109 @@
-ハッシュポテトを製造
-するときの温度は？
+When making hashbrowns, what
+temperature should the fryer be?
 ===#===
-１８２℃
+182°C (360°F)
 ===#===
-１６６℃
+166°C (330°F)
 ===#===
-１６８℃
+168°C (335°F)
 ===#===
-１７８℃
+178°C (350°F)
 ===#===
-ハッシュポテトを製造
-するときの時間は？
+When making hashbrowns, how
+long should they fry for?
 ===#===
-２分４５秒±５秒
+2m45s ± 5s
 ===#===
-２分５５秒±５秒
+2m55s ± 5s
 ===#===
-３分±５秒
+3m ± 5s
 ===#===
-３分１５秒±５秒
+3m15s ± 5s
 ===#===
-バットの中の揚げカスを
-取り除くことを何というか？
+When there is tempura bits in the fryer,
+how do you get rid of them?
 ===#===
-スキミング
+Skimming
 ===#===
-カリブレーション
+Calibration
 ===#===
-フィルタリング
+Filtering
 ===#===
-ショートニング
+Shortening
 ===#===
-ハッシュバスケットには
-最大何枚入れられるか？
+How many sheets of hashbrowns
+do you put in the fryer?
 ===#===
-８枚
+8
 ===#===
-６枚
+6
 ===#===
-９枚
+9
 ===#===
-１２枚
+12
 ===#===
-ハッシュポテトをバットから
-リムーブしたときに、
-何秒くらいオイルを切るか？
+When taking hashbrowns out of the fryer, 
+how long should you drain the oil for?
 ===#===
-５〜１０秒
+5-10s
 ===#===
-切らなくてもいい
+You dont have to drain it
 ===#===
-３〜５秒
+3-5s
 ===#===
-１０〜１５秒
+10-15s
 ===#===
-ハッシュポテトは何を使って
-パッケージングするか？
+When packaging hashbrowns,
+what utensil should you use?
 ===#===
-トング
+Tongs
 ===#===
-バギングスクープ
+Bagging Scoop
 ===#===
-フライスキマー
+Fry Skimmer
 ===#===
-ドライワイパー
+Dry Wiper
 ===#===
-ハッシュポテトに対して、
-お客様が期待しているものは
-どれか？
+Which of the following do customers
+expect with hashbrowns, if anything?
 ===#===
-ゴールデンブラウン
+Golden Brown
 ===#===
-冷たい食感
+Cold & Mushy
 ===#===
-油っこい
+Greasy
 ===#===
-ベタベタしている
+Sticky
 ===#===
-フライステーションは
-何を使って清掃するか？
+When cleaning the fryers,
+what utensil do you use?
 ===#===
-ドライワイパー
+Dry Wiper
 ===#===
-カウンタークロス（ピンク）
+Counter Cloth (Pink)
 ===#===
-グリルクロス
+Grill Cloth
 ===#===
-Ｍバッグ
+M Bag
 ===#===
-ハッシュポテトの
-ホールディングタイムは
-何分か？
+When making hashbrowns,
+how long should you hold them?
 ===#===
-１０分
+10m
 ===#===
-７分
+7m
 ===#===
-１５分
+15m
 ===#===
-２０分
+20m
 ===#===
-オイルの６つの敵でないものを
-選んでください
+Which of the following is NOT one of the
+6 Enemies of oil?
 ===#===
-スキミング
+Skimming
 ===#===
-空気
+Air
 ===#===
-洗剤
+Detergent
 ===#===
-水
+Water
