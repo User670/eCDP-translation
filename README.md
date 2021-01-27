@@ -1,5 +1,5 @@
 # Deprecation Notice
-This is a late notice, but this repo seems to be deprecated. Please join the eCDP Discord server to discuss about translations. Also you'll be directly editing game files, so get your hex editor ready.
+This is a late notice, but this repo seems to be deprecated. Please join the eCDP Discord server here: [https://discord.gg/3MkYyFnkqG](https://discord.gg/3MkYyFnkqG) to discuss about translations. Also you'll be directly editing game files, so get your hex editor ready.
 
 # eCDP Translation
 This is a repo that aims to help translating McDonald Japan's eCDP training game on the Nintendo DS.
